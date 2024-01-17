@@ -16,3 +16,4 @@ The file main.py imports the "mean_var_std.py" to be excecuted. It also starts t
 **Repository Name:** boilerplate-mean-variance-standard-deviation-calculator  
 **Repository Description:** Repository for https://replit.com/@ferrarithiago/boilerplate-mean-variance-standard-deviation-calculator  
 ##
+

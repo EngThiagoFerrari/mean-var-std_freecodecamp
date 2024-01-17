@@ -51,4 +51,3 @@ def calculate(num_list):
         }
 
   return calculations
-  
